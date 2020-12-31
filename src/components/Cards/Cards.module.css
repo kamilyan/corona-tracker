@@ -1,0 +1,29 @@
+.container{
+    margin: 3rem 0;
+}
+
+.card:hover { transform: scale(1.2); }
+
+.card {
+    margin: 0 2% !important;
+    transition: transform 1s !important;
+}
+
+.infected{
+    border-right: 2rem solid red;
+}
+
+.recovered{
+    border-right: 2rem solid green;
+}
+
+.deaths{
+    border-right: 2rem solid purple;
+}
+
+
+@media (max-width: 770px) {
+    .card {
+        margin: 2% 0 !important;
+    }
+}
