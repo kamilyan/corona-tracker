@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/corona-tracker/static/css/main.44d0a18a.chunk.css",
+    "main.css": "/corona-tracker/static/css/main.93238ada.chunk.css",
     "main.js": "/corona-tracker/static/js/main.8378cff4.chunk.js",
     "main.js.map": "/corona-tracker/static/js/main.8378cff4.chunk.js.map",
     "runtime-main.js": "/corona-tracker/static/js/runtime-main.4c99c019.js",
@@ -8,13 +8,13 @@
     "static/js/2.87a18c60.chunk.js": "/corona-tracker/static/js/2.87a18c60.chunk.js",
     "static/js/2.87a18c60.chunk.js.map": "/corona-tracker/static/js/2.87a18c60.chunk.js.map",
     "index.html": "/corona-tracker/index.html",
-    "static/css/main.44d0a18a.chunk.css.map": "/corona-tracker/static/css/main.44d0a18a.chunk.css.map",
+    "static/css/main.93238ada.chunk.css.map": "/corona-tracker/static/css/main.93238ada.chunk.css.map",
     "static/js/2.87a18c60.chunk.js.LICENSE.txt": "/corona-tracker/static/js/2.87a18c60.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.4c99c019.js",
     "static/js/2.87a18c60.chunk.js",
-    "static/css/main.44d0a18a.chunk.css",
+    "static/css/main.93238ada.chunk.css",
     "static/js/main.8378cff4.chunk.js"
   ]
 }
